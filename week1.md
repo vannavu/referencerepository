@@ -5,10 +5,10 @@ layout: log
 
 # <span id="title">week 1</span><span id="date">Summer–August 30</span>
 
-<p class="fill"><img src="../../images/1/people.png"></p>
+<p class="fill"><img src="images/1/people.png"></p>
 ###### — [PEOPLE Berlin 2018 website](https://berlin18.p-e-o-p-l-e.com/){:target="_blank"} with scroll animation
 
-> ![](../../images/1/ruder.jpg)
+> ![](images/1/ruder.jpg)
 ##### — Typographie cover, Emil Ruder. Hierarchy.
 
 PEOPLE music gathering and website: “Music is for everyone.” A non-hierarchical, non-commercial digital space for artists (mostly musicians) to upload and update unfinished work. Includes some background information on when and where the pieces started.
@@ -26,7 +26,7 @@ More insight in [TCI interviews](https://thecreativeindependent.com/series/PEOPL
 
 **—**
 
-> ![](../../images/1/mathcomm.jpg)
+> ![](images/1/mathcomm.jpg)
 
 *Recent Contributions to the Mathematical Theory of Communication* — Warren Weaver (the first article in the book to the left): About "information," i.e., freedom of choice, i.e. entropy, i.e. uncertainty. One notable idea is that explanations are approximations. Applying that to design, English (or any linguistic language) is a means to understand and talk about design. But design itself is a separate language that does not operate the same as English.
 
@@ -36,7 +36,7 @@ Translating across forms adds noise that colors and alters the original message.
 
 **—**
 
-![](../../images/1/moon.jpg)
+![](images/1/moon.jpg)
 ###### — Interface by Moonassi
 
 **—**
@@ -47,9 +47,9 @@ Typefaces aren't merely facsimiles: well-done ones reflect the designer's ideolo
 
 **—**
 
-> ![](../../images/1/idea.jpg)
+> ![](images/1/idea.jpg)
 
-![](../../images/1/gerst01.jpg)
+![](images/1/gerst01.jpg)
 ###### — pg. 110, quoting Karl Gerstner, set in Gerstner Original
 
 *Idea Document: On the Shoulders of Giants*: Notable problem is that this features mostly white European guys. But that goes for most type design books. Insightful nonetheless. Learned about Gernster's font that intends to synthesize serif and sans, as well as André Ballinger's Newut Tip, which is “an attempt to create a new universal typeface.“
@@ -59,7 +59,7 @@ Baldinger, (*IDEA Document: On the Shoulders of Giants*, pg. 104).
 
 The dots stand in for accent marks. Since words are understood in context, the dots work.
 
-![](../../images/1/ab.jpg)
+![](images/1/ab.jpg)
 
 **—**
 
@@ -67,7 +67,7 @@ The dots stand in for accent marks. Since words are understood in context, the d
 
 **—**
 
-![](../../images/1/ns.svg)
+![](images/1/ns.svg)
 ###### — Nordvest by Nina Stössinger, a text typeface with heavier horizontals
 
 [Constrasting with Convention — Nina Stössinger](https://www.youtube.com/watch?v=5GMm_V7-njo&feature=youtu.be&t=9m21s){:target="_blank"}: Isolating verticals and horizontals. Difference between convention and truth. One of the first moments of Nordvest's basis also came from Nina ["misusing" a pointed pen](https://youtu.be/VCQ7hb7zM1o){:target="_blank"}.
@@ -77,7 +77,7 @@ The dots stand in for accent marks. Since words are understood in context, the d
 
 **—**
 
-> ![](../../images/1/ej.jpg)
+> ![](images/1/ej.jpg)
 
 ## "Disturbingly commonplace"
 
@@ -90,7 +90,7 @@ The dots stand in for accent marks. Since words are understood in context, the d
 
 **—**
 
-> ![](../../images/1/eflux.jpg)
+> ![](images/1/eflux.jpg)
 
 *The Internet Does Not Exist* (a collection of e-flux essays): The internet is 100% man-made. There is no nature. What are we constructing in this “endless” space? How much more trash are we creating? What’s being destroyed or abandoned? Do these vacancies matter? Is constantly moving to new locations disruptive? Are text-based communities real?
 
@@ -125,7 +125,7 @@ Coincides with the thought of using code as a language, a form of thinking and c
 
 **—**
 
-> ![](../../images/1/mm.jpg)
+> ![](images/1/mm.jpg)
 
 *The Gutenberg Galaxy: The Making of Typographic Man* — Marshall McCluhan
 
@@ -141,7 +141,7 @@ The alphabet is completely abstract, yet it's the reason why anything is possibl
 
 **—**
 
-<p><img src="../../images/1/larkey01.jpg" class="half_left"><img src="../../images/1/larkey02.jpg" class="half_right"></p>
+<p><img src="images/1/larkey01.jpg" class="half_left"><img src="images/1/larkey02.jpg" class="half_right"></p>
 ###### — "Extend" by Molly Larkey at Crystal Bridges.
 
 Same sculpture, different perspectives. I see an X/K. Could also be seen as 2D/3D, drawing/architecture as Larkey suggests. What does interpretation reveal about the biases of the viewer?
@@ -156,7 +156,7 @@ Notable sites found via hoverstat.es: [Avara](https://raphaelbastide.com/avara/)
 
 **—**
 
-![](../../images/1/meek.jpg)
+![](images/1/meek.jpg)
 ###### — [MEEK Typographic Synthesizer](https://robmeek.com/project/meek-3-0-typographic-synthesizer/){:target="_blank"}
 
 **—**
