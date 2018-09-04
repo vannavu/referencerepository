@@ -103,6 +103,8 @@ layout: log
     <li><a href="#stvincent01">St. Vincent + guitar</a></li>
     <li><a href="#mcluhan01"><i>The Gutenberg Galaxy</i></a></li>
     <li><a href="#larkey01">X/K</a></li>
+    <li><a href="#ohno01">OH no interviews Rob Stenson</a></li>
+    <li><a href="#websites01">Websites</a></li>
     <li><a href="#meek01">Typographic synth</a></li>
     <li><a href="#briem01">Conviction</a></li>
   </ul>
