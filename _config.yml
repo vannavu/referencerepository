@@ -16,7 +16,6 @@
 description: >- # this means to ignore newlines until "baseurl:"
 url: "http://vannavu.com/referencerepository" # the base hostname & protocol for your site, e.g. http://example.com
 email: vannavu@wustl.edu
-repository: referencerepository/vannavu.github.io
 
 # Build settings
 markdown: kramdown
