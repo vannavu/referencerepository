@@ -1,0 +1,3 @@
+<a name="berlow01"></a>
+
+[David Berlow on emojis](https://www.youtube.com/watch?v=25exf6OowfU&feature=youtu.be&t=2m24s){:target="_blank"}: Berlow talks about how monolinear sans serifs are neutral in their ubiquity across textual communication. Emojis carry expression now. The contrast keeps getting revved up: original black and white emoticons evolving into full color mini-illustrations. Emojis are an interesting development in written communication...
