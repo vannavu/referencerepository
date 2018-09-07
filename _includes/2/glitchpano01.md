@@ -1,6 +1,6 @@
 <a name="glitchpano01"></a>
 
-<p class="fill"><img src="images/2/arch2014.jpg"></p>
+<p class="fill"><img src="images/2/arch2014.JPG"></p>
 ###### — 2014
 
 I took an accidental glitch-panorama of the Arch the summer before senior year of high school. It reflected the state of St. Louis.
