@@ -5,6 +5,6 @@ layout: log
 
 # <span id="title">analog works</span>
 
-{% include ruder01.md %}
+{% include 1/ruder01.md %}
 
-{% include larkey01.md %}
+{% include 1/larkey01.md %}

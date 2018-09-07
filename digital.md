@@ -5,12 +5,12 @@ layout: log
 
 # <span id="title">digital works</span>
 
-{% include meek01.md %}
+{% include 1/meek01.md %}
 
 **—**
 
-{% include people01.md %}
+{% include 1/people01.md %}
 
 **—**
 
-{% include websites01.md %}
+{% include 1/websites01.md %}

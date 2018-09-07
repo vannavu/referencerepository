@@ -5,42 +5,42 @@ layout: log
 
 # <span id="title">texts</span>
 
-{% include briem01.md %}
+{% include 1/briem01.md %}
 
 **—**
 
-{% include dunneraby01.md %}
+{% include 1/dunneraby01.md %}
 
-{% include cartereric01.md %}
-
-**—**
-
-{% include eflux01.md %}
+{% include 1/cartereric01.md %}
 
 **—**
 
-{% include exjet01.md %}
+{% include 1/eflux01.md %}
 
 **—**
 
-{% include klim01.md %}
+{% include 1/exjet01.md %}
 
 **—**
 
-{% include mau01.md %}
+{% include 1/klim01.md %}
 
 **—**
 
-{% include mcluhan01.md %}
+{% include 1/mau01.md %}
 
 **—**
 
-{% include ohno01.md %}
+{% include 1/mcluhan01.md %}
 
 **—**
 
-{% include people02.md %}
+{% include 1/ohno01.md %}
 
 **—**
 
-{% include stvincent01.md %}
+{% include 1/people02.md %}
+
+**—**
+
+{% include 1/stvincent01.md %}

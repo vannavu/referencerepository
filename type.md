@@ -5,32 +5,32 @@ layout: log
 
 # <span id="title">typography / type design</span>
 
-{% include berlow01.md %}
+{% include 1/berlow01.md %}
 
 **—**
 
-{% include briem01.md %}
+{% include 1/briem01.md %}
 
 **—**
 
-{% include idea01.md %}
+{% include 1/idea01.md %}
 
 **—**
 
-{% include klim01.md %}
+{% include 1/klim01.md %}
 
 **—**
 
-{% include mcluhan01.md %}
+{% include 1/mcluhan01.md %}
 
 **—**
 
-{% include meek01.md %}
+{% include 1/meek01.md %}
 
 **—**
 
-{% include people02.md %}
+{% include 1/people02.md %}
 
 **—**
 
-{% include stoessinger01.md %}
+{% include 1/stoessinger01.md %}
