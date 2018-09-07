@@ -1,6 +1,6 @@
 <a name="alhadid01"></a>
 
-![](../../images/2/alhadid.jpg)
+![](images/2/alhadid.jpg)
 ###### — *The Candle Clock in the Citadel* by Diana Al-Hadid, 2017. In which Al-Hadid attempts to reconstruct a complicated machine like a badass.
 
 Diana Al-Hadid's talk on Wednesday was about historical synthesis and new form. It was new to witness an artist give a less prepared/scripted talk, as she seemed to intend. She was using the public space as a means of reflecting on work in a new setting, which probably put some people off as she searched for words. But to me it made her more empathetic. She's still figuring things out like everyone else. And the work as a collection speaks.

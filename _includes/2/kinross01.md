@@ -1,6 +1,6 @@
 <a name="kinross01"></a>
 
->![](../../images/2/kinross.jpg)
+>![](images/2/kinross.jpg)
 
 *Modern Typography* — Robin Kinross: Thoughts prompted by pages 10–11: Typographic scholarship is largely motivated by the intent to reproduce and sell typefaces modeled on old ones. Do type designers dig deeper than aesthetics?
 
