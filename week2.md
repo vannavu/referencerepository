@@ -17,12 +17,23 @@ layout: log
 **—**
 {% include 2/alhadid01.md %}
 **—**
-
+{% include 2/microinteractions01.md %}
+**—**
+{% include 2/changshi01.md %}
+**—**
+{% include 2/bookbinding01.md %}
 
 
 <nav>
   <ul>
     <li><a href="#101patterns01">101 Patterns</a></li>
     <li><a href="#kinross01"><i>Modern Typography</i></a></li>
+    <li><a href="#dianshizhai01"><i>Dianshizhai Pictorial</i></a></li>
+    <li><a href="#bingo01">Bingo</a></li>
+    <li><a href="#glitchpano01">Glitch panorama</a></li>
+    <li><a href="#alhadid01">Diana Al-Hadid</a></li>
+    <li><a href="#microinteractions01">Microinteractions</a></li>
+    <li><a href="#changshi01">Chinese seal script</a></li>
+    <li><a href="#bookbinding01">Making paper</a></li>
   </ul>
 </nav>
