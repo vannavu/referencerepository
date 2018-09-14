@@ -1,4 +1,4 @@
-<a name="bookbinding01.md"></a>
+<a name="bookbinding01"></a>
 
 In my bookbinding class we are [making paper](https://youtu.be/8svE2AjQWYE?t=40m59s){:target="_blank"} as well as getting a hang of the letterpress. This week has been about experimenting. My group made a mega-paper/community-quilt-type-thing, and it's honestly kind of meaningful as cheesy and sort of cliché-y as it might me. We just pressed multiple sheets of paper together, and there ended up being a space in the middle from human error and imperfect alignment. The physical negative space also shows that the paper was made from multiple modules. The paper was pressed in a sort of American flag shape with the larger rectangle in the corner, but the whole sheet is one color, which happened to be a blueberry-smoothie color from mixing white pulp with red and blue dye. It was a whole lot of serendipity but also about enabling those moments by saying yes to trying simple but new things.
 

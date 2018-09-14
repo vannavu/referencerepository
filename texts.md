@@ -14,7 +14,13 @@ layout: log
 **—**
 {% include 1/exjet01.md %}
 **—**
+{% include 3/nixon02.md %}
+**—**
 {% include 2/kinross01.md %}
+**—**
+{% include 3/kinross02.md %}
+**—**
+{% include 3/nixon02.md %}
 **—**
 {% include 1/klim01.md %}
 **—**
@@ -29,3 +35,9 @@ layout: log
 {% include 1/people02.md %}
 **—**
 {% include 1/stvincent01.md %}
+**—**
+{% include 3/internetlanguage01.md %}
+**—**
+{% include 3/okakura01.md %}
+**—**
+{% include 3/slowreader01.md %}
