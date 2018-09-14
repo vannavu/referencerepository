@@ -8,7 +8,8 @@ Part of the “Long List of *Rational* Reasons of Why I Like Type Design” is t
 
 Something that has been stuck in my head is:
 
-## Ephemeral design = ephemeral emotion
+## ephemeral design,
+## ephemeral emotion
 
 You know when you hold something and it's just full of emotion? That's usually because someone put a lot of time and care into it.
 
