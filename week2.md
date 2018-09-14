@@ -1,9 +1,9 @@
 ---
-title: 2 — August 31—September 6
+title: 2 — August 31–September 6
 layout: log
 ---
 
-# <span id="title">week 2</span><span id="date">August 31—September 6</span>
+# <span id="title">week 2</span><span id="date">August 31–September 6</span>
 
 {% include 2/101patterns01.md %}
 **—**

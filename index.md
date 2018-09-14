@@ -11,8 +11,10 @@ layout: log
 
 [1]({{ site.url }}/week1) — Summer–August 30
 
-[2]({{ site.url }}/week2) — August 31—September 6
+[2]({{ site.url }}/week2) — August 31–September 6
+
+[3]({{ site.url }}/week3) — September 7–13
 
 **—**
 
-[texts]({{ site.url }}/texts) — [typography / type design]({{ site.url }}/type) — [analog works]({{ site.url }}/analog) — [digital works]({{ site.url }}/digital)
+[texts]({{ site.url }}/texts) — [typography / type design]({{ site.url }}/type) — [analog works]({{ site.url }}/analog) — [digital works]({{ site.url }}/digital) — [all]({{ site.url }}/all)
