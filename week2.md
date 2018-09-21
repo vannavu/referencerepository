@@ -1,5 +1,5 @@
 ---
-title: 2 — August 31–September 6
+title: week 2 — August 31–September 6
 layout: log
 ---
 

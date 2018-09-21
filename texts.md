@@ -14,8 +14,6 @@ layout: log
 **—**
 {% include 1/exjet01.md %}
 **—**
-{% include 3/nixon02.md %}
-**—**
 {% include 2/kinross01.md %}
 **—**
 {% include 3/kinross02.md %}

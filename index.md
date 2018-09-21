@@ -15,6 +15,8 @@ layout: log
 
 [3]({{ site.url }}/week3) — September 7–13
 
+[4]({{ site.url }}/week4) — September 14–20
+
 **—**
 
 [texts]({{ site.url }}/texts) — [typography / type design]({{ site.url }}/type) — [analog works]({{ site.url }}/analog) — [digital works]({{ site.url }}/digital)

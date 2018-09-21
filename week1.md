@@ -1,5 +1,5 @@
 ---
-title: 1 — Summer–August 30
+title: week 1 — Summer–August 30
 layout: log
 ---
 

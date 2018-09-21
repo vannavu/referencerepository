@@ -1,5 +1,5 @@
 ---
-title: 3 — September 7–13
+title: week 3 — September 7–13
 layout: log
 ---
 
