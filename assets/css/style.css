@@ -80,7 +80,7 @@ h2 {
 	font-size: 24px;
 	line-height: 1.75em;
 	color: black;
-	margin: 0 0 16px 0;
+	margin: 0 0 20px 0;
 	display: inline-block;
 	width: 66.64%;
 	float: right;
@@ -91,7 +91,7 @@ h5 {
 	font-family: "ff-basic-gothic-pro", sans-serif;
 	text-align: right;
 	font-size: 13px;
-	margin: -10px 0 0 0;
+	margin: -10px 0 10px 0;
 	font-weight: 200;
 }
 
