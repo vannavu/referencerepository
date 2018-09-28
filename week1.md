@@ -6,83 +6,44 @@ layout: log
 # <span id="title">week 1</span><span id="date">Summer–August 30</span>
 
 {% include 1/people01.md %}
-
 {% include 1/ruder01.md %}
-
 {% include 1/people02.md %}
-
 **—**
-
 {% include 1/weaver01.md %}
-
 **—**
-
 {% include 1/moonassi01.md %}
-
 **—**
-
 {% include 1/klim01.md %}
-
 **—**
-
 {% include 1/idea01.md %}
-
 **—**
-
 {% include 1/berlow01.md %}
-
 **—**
-
 {% include 1/stoessinger01.md %}
-
 **—**
-
 {% include 1/exjet01.md %}
-
 **—**
-
 {% include 1/mau01.md %}
-
 **—**
-
 {% include 1/eflux01.md %}
-
 **—**
-
 {% include 1/vliet01.md %}
-
 **—**
-
 {% include 1/dunneraby01.md %}
-
 {% include 1/cartereric01.md %}
-
 **—**
-
 {% include 1/stvincent01.md %}
-
 **—**
-
 {% include 1/mcluhan01.md %}
-
 **—**
-
 {% include 1/larkey01.md %}
-
 **—**
-
 {% include 1/ohno01.md %}
-
 **—**
-
 {% include 1/websites01.md %}
-
 **—**
-
 {% include 1/meek01.md %}
-
 **—**
-
 {% include 1/briem01.md %}
 
 <nav>

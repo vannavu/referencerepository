@@ -32,3 +32,5 @@ layout: log
 {% include 3/trends01.md %}
 **—**
 {% include 3/formist01.md %}
+**—**
+{% include 4/typotheque01.md %}

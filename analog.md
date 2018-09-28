@@ -11,6 +11,10 @@ layout: log
 **—**
 {% include 3/cds01.md %}
 **—**
+{% include 4/clothespin01.md %}
+**—**
+{% include 4/arduino01.md %}
+**—**
 {% include 2/bookbinding01.md %}
 **—**
 {% include 2/dianshizhai01.md %}
@@ -21,3 +25,9 @@ layout: log
 {% include 1/larkey01.md %}
 **—**
 {% include 3/lehni01.md %}
+**—**
+{% include 4/islahansen01.md %}
+**—**
+{% include 4/moire01.md %}
+**—**
+{% include 5/codychoi01.md %}

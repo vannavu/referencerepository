@@ -12,6 +12,8 @@ layout: log
 **—**
 {% include 1/eflux01.md %}
 **—**
+{% include 5/mediamanipulation01.md %}
+**—**
 {% include 1/exjet01.md %}
 **—**
 {% include 2/kinross01.md %}
@@ -36,6 +38,28 @@ layout: log
 **—**
 {% include 3/internetlanguage01.md %}
 **—**
+{% include 4/feiliu01.md %}
+**—**
 {% include 3/okakura01.md %}
 **—**
 {% include 3/slowreader01.md %}
+**—**
+{% include 4/systems01.md %}
+**—**
+{% include 4/csstypeface01.md %}
+**—**
+{% include 4/legibility01.md %}
+**—**
+{% include 1/vliet01.md %}
+**—**
+{% include 4/publicspace01.md %}
+**—**
+{% include 5/taeyoon01.md %}
+**—**
+{% include 5/codeaslanguage01.md %}
+**—**
+{% include 5/taeyoon02.md %}
+**—**
+{% include 5/taeyoon03.md %}
+**—**
+{% include 4/emigre01.md %}
