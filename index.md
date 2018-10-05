@@ -19,6 +19,8 @@ layout: log
 
 [5]({{ site.url }}/week5) — September 21–27
 
+[6]({{ site.url }}/week6) — September 28–October 4
+
 **—**
 
 [texts]({{ site.url }}/texts) — [typography / type design]({{ site.url }}/type) — [analog works]({{ site.url }}/analog) — [digital works]({{ site.url }}/digital)
