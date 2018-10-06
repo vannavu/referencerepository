@@ -17,6 +17,9 @@ layout: log
 **—**
 {% include 2/bookbinding01.md %}
 **—**
+
+{% include 6/goodrich01.md %}
+**—**
 {% include 2/dianshizhai01.md %}
 **—**
 {% include 2/glitchpano01.md %}
@@ -29,5 +32,7 @@ layout: log
 {% include 4/islahansen01.md %}
 **—**
 {% include 4/moire01.md %}
+**—**
+{% include 6/lifeanimation01.md %}
 **—**
 {% include 5/codychoi01.md %}

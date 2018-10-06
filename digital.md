@@ -7,6 +7,8 @@ layout: log
 
 {% include 2/101patterns01.md %}
 **—**
+{% include 6/thoughts01.md %}
+**—**
 {% include 1/people01.md %}
 **—**
 {% include 1/websites01.md %}

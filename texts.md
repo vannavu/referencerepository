@@ -22,6 +22,8 @@ layout: log
 **—**
 {% include 3/nixon02.md %}
 **—**
+{% include 6/jimwalker01.md %}
+**—**
 {% include 1/klim01.md %}
 **—**
 {% include 1/mau01.md %}
@@ -46,6 +48,8 @@ layout: log
 **—**
 {% include 4/systems01.md %}
 **—**
+{% include 6/modernwoodcut01.md %}
+**—**
 {% include 4/csstypeface01.md %}
 **—**
 {% include 4/legibility01.md %}
@@ -63,3 +67,8 @@ layout: log
 {% include 5/taeyoon03.md %}
 **—**
 {% include 4/emigre01.md %}
+{% include 6/thoughts01.md %}
+**—**
+{% include 6/thoughts02.md %}
+**—**
+{% include 6/slowreader02.md %}
