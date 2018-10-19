@@ -107,7 +107,7 @@ h6 {
 }
 
 /* YouTube videos */
-iframe {
+iframe, video {
 	width: 100%;
 	margin: 16px 0;
 }
@@ -389,7 +389,7 @@ footer a {
 		margin-bottom: 24px;
 	}
 
-	iframe {
+	iframe, video {
 		height: auto;
 	}
 
