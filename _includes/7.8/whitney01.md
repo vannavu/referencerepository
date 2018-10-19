@@ -1,4 +1,4 @@
-<a name="whitney01.md"></a>
+<a name="whitney01"></a>
 
 <video controls>
   <source src="images/7.8/readcode.mp4" type="video/mp4">
