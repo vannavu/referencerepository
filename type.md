@@ -15,6 +15,8 @@ layout: log
 **—**
 {% include 1/idea01.md %}
 **—**
+{% include 7.8/hbsc01.md %}
+**—**
 {% include 2/kinross01.md %}
 **—**
 {% include 3/kinross02.md %}
@@ -34,3 +36,5 @@ layout: log
 {% include 3/formist01.md %}
 **—**
 {% include 4/typotheque01.md %}
+**—**
+{% include 7.8/gears01.md %}

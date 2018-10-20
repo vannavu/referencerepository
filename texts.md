@@ -72,3 +72,5 @@ layout: log
 {% include 6/thoughts02.md %}
 **—**
 {% include 6/slowreader02.md %}
+**—**
+{% include 7.8/capstoneideas01.md %}

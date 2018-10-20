@@ -36,3 +36,5 @@ layout: log
 {% include 6/lifeanimation01.md %}
 **—**
 {% include 5/codychoi01.md %}
+**—**
+{% include 7.8/whitney01.md %}
