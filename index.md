@@ -23,6 +23,12 @@ layout: log
 
 [7 & 8]({{ site.url }}/week7&8) — October 4–18
 
+[9]({{ site.url }}/week9) — October 19–25
+
 **—**
 
 [texts]({{ site.url }}/texts) — [typography / type design]({{ site.url }}/type) — [analog works]({{ site.url }}/analog) — [digital works]({{ site.url }}/digital)
+
+**—**
+
+It appears that this has become a blog-like thing.
