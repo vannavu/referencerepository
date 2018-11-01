@@ -21,6 +21,8 @@ layout: log
 **—**
 {% include 3/kinross02.md %}
 **—**
+{% include 9/kinross03.md %}
+**—**
 {% include 1/klim01.md %}
 **—**
 {% include 1/mcluhan01.md %}
@@ -38,3 +40,9 @@ layout: log
 {% include 4/typotheque01.md %}
 **—**
 {% include 7.8/gears01.md %}
+**—**
+{% include 9/juneshin01.md %}
+**—**
+{% include 9/benoit01.md %}
+**—**
+{% include 9/ohno02.md %}

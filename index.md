@@ -25,10 +25,8 @@ layout: log
 
 [9]({{ site.url }}/week9) — October 19–25
 
+[10]({{ site.url }}/week10) — October 26–November 1
+
 **—**
 
 [texts]({{ site.url }}/texts) — [typography / type design]({{ site.url }}/type) — [analog works]({{ site.url }}/analog) — [digital works]({{ site.url }}/digital)
-
-**—**
-
-It appears that this has become a blog-like thing.

@@ -1,0 +1,15 @@
+<a name="typethoughts01"></a>
+
+Considerations when reviving type: is the design decision in service of function (whether aesthetic, legibility, mood, etc.) or 1-to-1 imitation? Artifacts of form (byproducts of letterpress, etc.) probably don’t belong in digitally native / applied type. The noise in printed letters occurs from the transfer of its original form (metal, wood, digital file) to material (paper). Web fonts are created on the medium in which they are to be displayed. So the forms are truer (ignoring hinting. The forms are ~~simpler~~ crisper/cleaner than printed type.
+
+Attempting to imitate the byproducts of material transfer complicates the type design process and undermines the letterform. It makes it overdone. It's unnatural. So don't overthink the pure shape of the letter. Would designers have been so microscopically finicky before the ability to zoom and be precise in pixels on a 1000 by 1000 grid? Each point adjustable with one click?
+
+Does contemporary type mean crispness? An invisible hand? *What is authorship in type design?*
+
+Contemporary type is able to be crisper than before with even higher contrast than a Bodoni, which could only get so thin as metal type. A trend now is also geometric sans, especially in tech companies. But they're even more geometric than those from the mid 1900s. Why? Is it the result of the tie between tech companies and digital aesthetics of vectors? Mathematical shapes produced by equations, language, rather than hand drawn? Why add serifs? It's unnatural for a digitally native letterform. Calligraphy is not the root of form. The geometric sans is simplification of letterform, no byproducts of physically created letters.
+
+So why revive for purposes beyond studying form? Is type revivalism a form of appropriation? Is it a way of rectifying past type, type made from laborers prior to the formalization of type design education? Is selling it problematic?
+
+Making type isn't easy, but pure revivals are less strenuous in a way: there is a form to follow. Making a new type with no 1-to-1 reference takes longer and it's trickier. So is the practice of revivals or heavily referencing history a way of coping with commercial demand? Is it a way to get type onto the market quicker? This is what happened with Monotype: they made revivals because that's what people wanted. Since then the qualities of revivals has improved. And it's still practiced because we have only recently become “post-screen,” in terms of not having to work too much within the restrictions of low-res displays. So now what?
+
+Now we should push toward digitally native types, which is where variable fonts are getting to. But letters shouldn't be animated for animation's sake… or should they, initially? If a letter has the possibility to, the effect on typographic and communicative possibilities expands. A new expression of language is unlocked. It must all start somewhere; it can always be improved. The rectangular bounding box that has restricted letters since metal type has now become responsive. What's next?

@@ -20,6 +20,8 @@ layout: log
 **—**
 {% include 3/kinross02.md %}
 **—**
+{% include 9/kinross03.md %}
+**—**
 {% include 3/nixon02.md %}
 **—**
 {% include 6/jimwalker01.md %}
@@ -33,6 +35,8 @@ layout: log
 {% include 1/mcluhan01.md %}
 **—**
 {% include 1/ohno01.md %}
+**—**
+{% include 9/ohno02.md %}
 **—**
 {% include 1/people02.md %}
 **—**
@@ -74,3 +78,11 @@ layout: log
 {% include 6/slowreader02.md %}
 **—**
 {% include 7.8/capstoneideas01.md %}
+**—**
+{% include 9/alexandertoch01.md %}
+**—**
+{% include 9/muhly01.md %}
+**—**
+{% include 9/thoughts03.md %}
+**—**
+{% include 9/botnick01.md %}

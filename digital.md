@@ -26,3 +26,5 @@ layout: log
 {% include 4/arduino01.md %}
 **—**
 {% include 7.8/gears01.md %}
+**—**
+{% include 9/cem01.md %}
