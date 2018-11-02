@@ -23,8 +23,8 @@ layout: log
 
 <nav>
   <ul>
-    <li><a href="#vectors01">Abstraction as Compression</a></li>
     <li><a href="#gomariz01">Window cube</a></li>
+    <li><a href="#vectors01">Abstraction as Compression</a></li>
     <li><a href="#typethoughts01">Revivalism and digitally native type</a></li>
     <li><a href="#typethoughts02">2D sculpture</a></li>
     <li><a href="#resize01">Browser as drawing machine</a></li>
