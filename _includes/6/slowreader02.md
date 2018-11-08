@@ -7,6 +7,7 @@
 
 Closed, fully controlled systems vs. mostly controlled but open-ended systems.
 
-## “By placing ‘just one brick, then another,’ something emerges that is in synchronicity with the world, rather than a representation of it.” (*Building a Wilderness with Louis le Roy*, pg. 104)
+## “By placing ‘just one brick, then another,’ something emerges that is in synchronicity with the world, rather than a representation of it.”
+###### — *Building a Wilderness with Louis le Roy*, pg. 104
 
 Incremental change that affects current reality vs. whole constructions of idealized futures.
