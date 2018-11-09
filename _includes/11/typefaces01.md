@@ -4,7 +4,7 @@
 
 These are examples of contemporary type that resonated with me before I knew why they did:
 
-![](images/pitch.jpeg)
+![](images/11/pitch.jpeg)
 ###### — [Pitch](https://klim.co.nz/retail-fonts/pitch/){:target="_blank"} by Klim
 
 Back when I was taught the value of typefaces and type design, I was introduced to Klim. Pitch made me a bit more aware of what type could be, how it could really make someone react. Why does it look so good to me? It's hit me for 3 reasons, each one articulated at different times the more I have looked at:
@@ -24,10 +24,10 @@ In the beginning of the article he also makes explicit:
 
 Abstraction of physical type's byproducts or the complete removal of those material artifacts is key to making contemporary web type not look imitative. Type needs to be self-aware of its environment.
 
-![](images/dalaprisma.png)
+![](images/11/dalaprisma.png)
 ###### — [Dala Prisma](https://commercialtype.com/catalog/dala_floda/dala_prisma){:target="_blank"} by Commercial Type
 
->![](images/prisma.png)
+>![](images/11/prisma.png)
 ##### — Prisma, image from [here](https://www.flickr.com/photos/philipp75/14297172014/in/photostream/lightbox/){:target="_blank"}
 
 Dala Prisma was made possible with scripting. It would have taken a lot longer to draw this face without the help of programming. Again, this is beautiful. It was inspired by the striped type Prisma which was more manageable to draw because of the monolinear, geometric strokes. Dala Prisma applies stripes to a Victorian shape, creating the great beach ball effect and the "infinitely sharp", tapering stripes.
