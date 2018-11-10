@@ -16,4 +16,4 @@ Another typeface I consider to be digitally native is LettError's Beowolf. It di
 
 ## Is seriffed type on the screen skeuomorphic?
 
-The common practice in type design today is to revive or heavily reference historical form and convention. How else can type design be practiced, particularly in regard to web fonts? How can we look more toward the now? These are questions of curiosity rather than opposition or a new dogmatism.
+The common practice in type design today is to revive or heavily reference historical form and convention. How else can type design be practiced, particularly in regard to web fonts? How can we look more toward the now? How does the digital environment affect type and how can the process of type design and letterform itself attempt to reflect the qualities of the contemporary digital environment? These are questions of curiosity rather than opposition or pursuit of a dogmatism.
