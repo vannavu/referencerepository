@@ -42,3 +42,7 @@ layout: log
 {% include 7.8/whitney01.md %}
 **—**
 {% include 9/botnick01.md %}
+**—**
+{% include 11/janemasters01.md %}
+**—**
+{% include 11/xubing01.md %}

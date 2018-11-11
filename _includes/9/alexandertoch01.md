@@ -4,6 +4,8 @@
 
 Alexander Tochilovsky, head curator of the Herb Lubalin Study Center, on Lubalin’s convictions and skill, the inaccuracy of Google, and Karl Gerstner’s systems.
 
+> ![](images/9/gerstner.jpg)
+
 WashU's art library also has a copy of Gerstner's *Designing Programmes*. Not sure how I feel about such a rationalized approach quite yet, but this quote,
 
 ## “The rules of the game is permutation”

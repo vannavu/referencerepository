@@ -86,3 +86,11 @@ layout: log
 {% include 9/thoughts03.md %}
 **—**
 {% include 9/botnick01.md %}
+**—**
+{% include 11/capstoneideas02.md %}
+**—**
+{% include 11/borismuller01.md %}
+**—**
+{% include 11/aetherpoint01.md %}
+**—**
+{% include 11/noordzij01.md %}
