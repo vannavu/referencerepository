@@ -29,7 +29,7 @@ layout: log
 
 [11]({{ site.url }}/week11) — November 2–November 8
 
-[12–13]({{ site.url }}/week12-13) — November 9–November 22
+[12 & 13]({{ site.url }}/week12-13) — November 9–November 22
 
 **—**
 
