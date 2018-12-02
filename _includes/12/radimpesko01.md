@@ -1,9 +1,9 @@
 <a name="radimpesko01"></a>
 
 ![](images/12/lyno.jpeg)
-###### — Lynö by Radim Pe&scaron;ko & Karl Nawrot
+###### — [Lynö](https://radimpesko.com/fonts/lyno){:target="_blank"} by Radim Pe&scaron;ko & Karl Nawrot
 
-From Pe&scaron;ko's site: “They are open and various, and their spirit is this: to resist normative tendencies and to reject the idea of definitive form.”
+[From Pe&scaron;ko's site](https://radimpesko.com/fonts/lyno){:target="_blank"}: “They are open and various, and their spirit is this: to resist normative tendencies and to reject the idea of definitive form.”
 
 The thing is, all legible letters are normative and definitive in the skeletal sense. Letters are shapes, but not strictly defined ones... it's hard to write the definition of an A, because it also depends on the context of the other letters in the typeface. When you see or read an A, it is an A. Letters are not like circles and squares which are mathematically definable.
 
