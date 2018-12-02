@@ -46,3 +46,13 @@ layout: log
 {% include 11/janemasters01.md %}
 **—**
 {% include 11/xubing01.md %}
+**—**
+{% include 12/thentl01.md %}
+**—**
+{% include 12/xubing02.md %}
+**—**
+{% include 12/aiweiwei01.md %}
+**—**
+{% include 12/bartholl01.md %}
+**—**
+{% include 12/ninakatcha01.md %}

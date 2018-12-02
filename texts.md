@@ -22,10 +22,6 @@ layout: log
 **—**
 {% include 9/kinross03.md %}
 **—**
-{% include 3/nixon02.md %}
-**—**
-{% include 6/jimwalker01.md %}
-**—**
 {% include 1/klim01.md %}
 **—**
 {% include 1/mau01.md %}
@@ -54,8 +50,6 @@ layout: log
 **—**
 {% include 6/modernwoodcut01.md %}
 **—**
-{% include 4/csstypeface01.md %}
-**—**
 {% include 4/legibility01.md %}
 **—**
 {% include 1/vliet01.md %}
@@ -70,27 +64,24 @@ layout: log
 **—**
 {% include 5/taeyoon03.md %}
 **—**
-{% include 4/emigre01.md %}
-{% include 6/thoughts01.md %}
+{% include 12/taeyoon04.md %}
 **—**
-{% include 6/thoughts02.md %}
+{% include 4/emigre01.md %}
 **—**
 {% include 6/slowreader02.md %}
-**—**
-{% include 7.8/capstoneideas01.md %}
 **—**
 {% include 9/alexandertoch01.md %}
 **—**
 {% include 9/muhly01.md %}
 **—**
-{% include 9/thoughts03.md %}
-**—**
 {% include 9/botnick01.md %}
-**—**
-{% include 11/capstoneideas02.md %}
 **—**
 {% include 11/borismuller01.md %}
 **—**
 {% include 11/aetherpoint01.md %}
 **—**
 {% include 11/noordzij01.md %}
+**—**
+{% include 12/kyuhashim01.md %}
+**—**
+{% include 12/dextersinister01.md %}

@@ -31,6 +31,11 @@ layout: log
 
 [12 & 13]({{ site.url }}/week12-13) — November 9–November 22
 
+<!---
+[14]({{ site.url }}/week14) — November 23–November 29
+-->
+
+
 **—**
 
-[texts]({{ site.url }}/texts) — [typography / type design]({{ site.url }}/type) — [analog works]({{ site.url }}/analog) — [digital works]({{ site.url }}/digital)
+[texts]({{ site.url }}/texts) — [typography / type design]({{ site.url }}/type) — [analog works]({{ site.url }}/analog) — [digital works]({{ site.url }}/digital) — [thoughts & questions]({{ site.url }}/thoughts)

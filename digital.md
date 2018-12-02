@@ -28,3 +28,7 @@ layout: log
 {% include 7.8/gears01.md %}
 **—**
 {% include 9/cem01.md %}
+**—**
+{% include 12/caligraft01.md %}
+**—**
+{% include 12/dextersinister01.md %}
