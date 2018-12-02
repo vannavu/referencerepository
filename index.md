@@ -38,4 +38,4 @@ layout: log
 
 **—**
 
-[texts]({{ site.url }}/texts) — [typography / type design]({{ site.url }}/type) — [analog works]({{ site.url }}/analog) — [digital works]({{ site.url }}/digital) — [thoughts & questions]({{ site.url }}/thoughts)
+[texts]({{ site.url }}/texts) — [typography / type design]({{ site.url }}/type) — [analog works]({{ site.url }}/analog) — [digital works]({{ site.url }}/digital) — [thoughts]({{ site.url }}/thoughts)
