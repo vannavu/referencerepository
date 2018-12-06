@@ -1,0 +1,3 @@
+<a name="stevereich01"></a>
+
+Part of Steve Reich's answer to the question: “[Do you think there is an ‘American’ music?](http://musicmavericks.publicradio.org/features/interview_reich.html){:target="_blank"}”: “And we are influenced by the fact that we speak the English language. And that works its way into the angularity of American music, the rhythmic stresses, and irregularities of that stress… I just think in different parts of the world, there is no formula, but if you dig in and really try to see, you will find that language groups produce cohesive music that reflects those languages. In America also, we are a poly-racial society built on ideas, which were fundamentally new in history, and therefore jazz has had a tremendous impact on people of my generation.”

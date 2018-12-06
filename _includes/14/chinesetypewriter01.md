@@ -1,0 +1,12 @@
+<a name="chinesetypewriter01"></a>
+
+![](images/14/chinesetypewriter.jpg)
+###### — Mullaney's Chinese typewriter
+
+Thomas Mullaney is a Chinese History professor at Stanford who wrote the first extensive book about Chinese typewriters. It's fascinating! He's also studying type design at TypeWest (the San Francisco counterpart of Type@Cooper).
+
+So far I've read through his [blog](https://thechinesetypewriter.wordpress.com/){:target="_blank"} journeying the research for his book *The Chinese Typewriter: A History*, and I've read the intro to the book. Mullaney seeks to address misconceptions about the typewriter and how those viewpoints reflect a Western sense of modern superiority. He gets at how the invention of the Chinese typewriter, a great feat because of the Chinese character system, is a form of resistance against the alphabetization of the Chinese language. He brings up how the Communist attempt to simplify the language didn't really simplify much at all in terms of information technology. The Chinese typewriter is part of China's attempt to modernize. The character system is fundamental to Chinese culture; China cannot escape its language without making its history inaccessible. Language historically changes gradually because convention is a form of accessibility. It is another form of evolution and adaption overtime.
+
+This book very much falls in line with the idea behind the cultural biography project, which apparently is a trendy history project that, as Mullaney points out, may be inflating the value of objects. But in any case, Mullaney is not attempting to render the Chinese typewriter as a groundbreaking, impactful object on China. It is rather a lens, the pivot point for telling stories. Looking forward to reading more of the book and learning more about the relationship between written language and information technology. For example, the Chinese typewriter implemented a mechanical form of what we know as predictive text today.
+
+I've been drawn to monospace fonts and typewriter forms for a while, but I'm not 100% sure why. Mullaney also mentioned in a video interview that he can't fully articulate why he is so compelled by the Chinese typewriter and that he's still trying to figure that out (this was before the book was released). He was able to articulate why it was important, but on a deeper level, it's just not speakable why it's personally significant. And that kind of doesn't matter.
