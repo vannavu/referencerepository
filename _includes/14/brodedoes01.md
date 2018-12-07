@@ -5,9 +5,9 @@
 
 Capstone title: *Bram "Bro" de Does: My Long Lost Father*.
 
-Found out about Kaba Ornament after mining through all of [Alphabettes](http://www.alphabettes.org/){:target="_blank"}' posts, but man, online pics do not do this justice. I got a hold of the book thanks to the interlibrary loan system. G' bless ILL.
+Found out about Kaba Ornament after mining through all of [Alphabettes](http://www.alphabettes.org/){:target="_blank"}' posts, but man, online pics do not do this justice. I got a hold of the book thanks to the interlibrary loan system. G' bless ILL. Kaba is only cut in metal; it is not a digital font.
 
-Kaba Ornament is a two modular system; the pieces are mirror images of each other and individually asymmetric. Combining asymmetric forms but mirroring them allows for building symmetric compositions. The shape of Kaba is Gestalten: The negative space is essentially the same shape as the positive space. This is largely why Kaba works as a simple yet dynamic module for pattern.
+Kaba Ornament is a two piece modular system; the pieces are mirror images of each other and individually asymmetric. Combining asymmetric forms but mirroring them allows for building symmetric compositions. The shape of Kaba is Gestalten: The negative space is essentially the same shape as the positive space. This is largely why Kaba works as a simple yet dynamic module for pattern.
 
 In the book, Bram explains his thinking behind ornaments, including some entertaining biographical snippets, and shows the process and eventual system that emerges for Kaba. He sketched configurations of Kaba over a long period of time using a felt pen, saying that he was more interested in the possibilities of combinations of a module than in the actual ornament itself.
 

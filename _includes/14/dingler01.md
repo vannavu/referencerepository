@@ -8,6 +8,6 @@ Eike Dingler, a TypeMedia graduate, created a [pattern type](https://ilovetypogr
 It makes sense that the letterform shapes are geometric since the pattern modules are geometric, and because the monolinear structure makes things legible and contemporary. It's just kind of boring and overdone for geometric sans serif to take the weight of all pattern / multiplied type.
 
 ![](images/14/dingler02.gif)
-###### — [from Dingler's t]m ’17 site](http://typemedia2007.com/pages/EikeDingler/){:target="_blank"}
+###### — [from Dingler's TypeMedia ’17 site](http://typemedia2007.com/pages/EikeDingler/){:target="_blank"}
 
 The GIF above is more successful—though in this case it is also typography and not just type design. But it's more successful because the pattern interacts with its environment.
