@@ -1,6 +1,6 @@
 <a name="brodedoes01"></a>
 
-<p class="fill"><img src="images/14/bdd.jpg"></p>
+<p class="fill"><img src="images/14/bdd.JPG"></p>
 ###### — *Kaba Ornament* by Bram de Does
 
 Capstone title: *Bram "Bro" de Does: My Long Lost Father*.

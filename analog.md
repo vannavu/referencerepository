@@ -56,3 +56,9 @@ layout: log
 {% include 12/bartholl01.md %}
 **—**
 {% include 12/ninakatcha01.md %}
+**—**
+{% include 14/morehshin01.md %}
+**—**
+{% include 14/irmaboom01.md %}
+**—**
+{% include 14/chinesetypewriter01.md %}

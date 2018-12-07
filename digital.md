@@ -32,3 +32,7 @@ layout: log
 {% include 12/caligraft01.md %}
 **—**
 {% include 12/dextersinister01.md %}
+**—**
+{% include 14/oreilly01.md %}
+**—**
+{% include 14/worldjustified01.md %}
