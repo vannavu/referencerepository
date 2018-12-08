@@ -1,9 +1,19 @@
 ---
-title: reference repository
+title: Vanna Vu
 layout: log
 ---
+# <span id="title">interaction capstone projects</span><span id="date">Fall 2018</span>
 
-# <span id="title">reference repository</span><span id="date">Vanna Vu</span>
+<div id="hover_gallery"></div>
+
+>
+- [CSS typeface: click](http://vannavu.com/css_typeface/index.html){:target="_blank"}{:#click}
+- [Squares: scroll](http://vannavu.com/scroll/index.html){:target="_blank"}{:#scroll}
+- [Vowels: resize](http://vannavu.com/resize/index){:target="_blank"}{:#resize}
+
+<br><br><br><br>
+
+# <span id="title">reference repository</span><span id="date"></span>
 
 >
 - *[What were my atoms before they were me?](https://www.theguardian.com/theguardian/2011/sep/27/where-were-my-atoms){:target="_blank"}*

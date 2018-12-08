@@ -209,11 +209,20 @@ nav li {
 }
 
 /* image sizing */
-.fill {
+.fill, #hover_gallery {
 	padding: 0;
 	width: 100%;
 	float: none;
 	margin: 16px 0;
+}
+
+#hover_gallery {
+	margin-top: 32px;
+	height: 506px;
+	background: url(../../images/index/click.gif);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 .half_left {
