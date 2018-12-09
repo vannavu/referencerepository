@@ -25,6 +25,11 @@ layout: log
 **—**
 {% include 9/botnick01.md %}
 
+<p class="page_nav">
+  <a href="{{ site.url }}/#refrepo" class="home">HOME</a>
+  <a href="{{ site.url }}/week7&8" class="back">WEEKS 7 & 8</a>
+  <a href="{{ site.url }}/week10" class="forward">WEEK 10</a>
+</p>
 
 <nav>
   <ul>

@@ -21,6 +21,12 @@ layout: log
 **—**
 {% include 10/unger01.md %}
 
+<p class="page_nav">
+  <a href="{{ site.url }}/#refrepo" class="home">HOME</a>
+  <a href="{{ site.url }}/week9" class="back">WEEK 9</a>
+  <a href="{{ site.url }}/week11" class="forward">WEEK 11</a>
+</p>
+
 <nav>
   <ul>
     <li><a href="#gomariz01">Window cube</a></li>

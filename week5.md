@@ -16,6 +16,12 @@ layout: log
 **—**
 {% include 5/mediamanipulation01.md %}
 
+<p class="page_nav">
+  <a href="{{ site.url }}/#refrepo" class="home">HOME</a>
+  <a href="{{ site.url }}/week4" class="back">WEEK 4</a>
+  <a href="{{ site.url }}/week6" class="forward">WEEK 6</a>
+</p>
+
 <nav>
   <ul>
     <li><a href="#taeyoon01">Productivity, creativity</a></li>

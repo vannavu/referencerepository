@@ -13,6 +13,12 @@ layout: log
 **—**
 {% include 7.8/hbsc01.md %}
 
+<p class="page_nav">
+  <a href="{{ site.url }}/#refrepo" class="home">HOME</a>
+  <a href="{{ site.url }}/week6" class="back">WEEK 6</a>
+  <a href="{{ site.url }}/week9" class="forward">WEEK 9</a>
+</p>
+
 <nav>
   <ul>
     <li><a href="#capstoneideas01">I just like letters, man</a></li>

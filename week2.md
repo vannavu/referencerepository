@@ -23,6 +23,11 @@ layout: log
 **—**
 {% include 2/bookbinding01.md %}
 
+<p class="page_nav">
+  <a href="{{ site.url }}/#refrepo" class="home">HOME</a>
+  <a href="{{ site.url }}/week1" class="back">WEEK 1</a>
+  <a href="{{ site.url }}/week3" class="forward">WEEK 3</a>
+</p>
 
 <nav>
   <ul>

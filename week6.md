@@ -20,6 +20,12 @@ layout: log
 **—**
 {% include 6/thoughts02.md %}
 
+<p class="page_nav">
+  <a href="{{ site.url }}/#refrepo" class="home">HOME</a>
+  <a href="{{ site.url }}/week5" class="back">WEEK 5</a>
+  <a href="{{ site.url }}/week7&8" class="forward">WEEKS 7 & 8</a>
+</p>
+
 <nav>
   <ul>
     <li><a href="#thoughts01">Thoughts so far</a></li>

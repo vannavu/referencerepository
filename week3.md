@@ -26,6 +26,11 @@ layout: log
 {% include 3/nixon01.md %}
 {% include 3/nixon02.md %}
 
+<p class="page_nav">
+  <a href="{{ site.url }}/#refrepo" class="home">HOME</a>
+  <a href="{{ site.url }}/week2" class="back">WEEK 2</a>
+  <a href="{{ site.url }}/week4" class="forward">WEEK 4</a>
+</p>
 
 <nav>
   <ul>

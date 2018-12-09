@@ -209,7 +209,7 @@ nav li {
 }
 
 /* image sizing */
-.fill, #hover_gallery {
+.fill, #hover_gallery, .page_nav {
 	padding: 0;
 	width: 100%;
 	float: none;
@@ -217,7 +217,7 @@ nav li {
 }
 
 #hover_gallery {
-	margin-top: 32px;
+	margin-top: 38px;
 	height: 506px;
 	background: url(../../images/index/click.gif);
 	background-position: center;
@@ -228,44 +228,65 @@ nav li {
 .half_left {
 	width: 48.34%;
 	float: left;
-
 }
 
 .half_right {
 	width: 48.34%;
 	float: right;
-
 }
 
-/* bottom navigation for work pages */
-.back, .top {
-	margin: 6em 0 -6em 0;
+/* bottom navigation for pages */
+.page_nav {
+	margin: 4em 0 0 0;
+}
+
+.home, .forward, .back {
 	font-family: "ff-basic-gothic-pro", sans-serif;
 	font-weight: 600;
 	letter-spacing: .15em;
 	text-decoration: none;
 	font-size: 13px;
 	color: black;
-	border-bottom: 1px solid white;
+	border-bottom: none;
+	background-color: white;
 }
 
-a.top {
+.home {
+	padding-right: 8px;
+}
+
+.back {
+	margin-left: calc(33.36% - 64.89px);
+	padding: 0 8px;
+}
+
+.back::before {
+	font-size: 11px;
+	margin-right: 4px;
+	content: "\25c0";
+}
+
+.forward {
+	padding-left: 9px;
+	margin-top: 2px;
 	float: right;
 }
 
-a.back {
-	float: left;
+.forward::after {
+	font-size: 11px;
+	margin-left: 6px;
+	content: "\25B6";
 }
 
-.back:hover, .top:hover {
-	border-bottom: 1px solid black;
+.home:hover, .back:hover, .forward:hover {
+	border-bottom: none;
 }
 
 footer {
-	margin: 6em 0 1em 0;
+	position: relative;
+	z-index: -1;
+	margin: -0.9em 0 1.5em 0;
 	border-top: 1px solid black;
-	-webkit-animation: fade 2.5s;
-	animation: fade 2.5s;
 }
 
 footer a {
@@ -406,7 +427,7 @@ footer a {
 		height: auto;
 	}
 
-	.back, .top {
+	.home, .forward {
 		margin: 3em 0 0 0;
 	}
 

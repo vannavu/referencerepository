@@ -46,6 +46,11 @@ layout: log
 **—**
 {% include 1/briem01.md %}
 
+<p class="page_nav">
+  <a href="{{ site.url }}/#refrepo" class="home">HOME</a>
+  <a href="{{ site.url }}/week2" class="forward">WEEK 2</a>
+</p>
+
 <nav>
   <ul>
     <li><a href="#people01">PEOPLE</a></li>

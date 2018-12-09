@@ -26,6 +26,12 @@ layout: log
 {% include 4/emigre01.md %}
 {% include 4/arduino01.md %}
 
+<p class="page_nav">
+  <a href="{{ site.url }}/#refrepo" class="home">HOME</a>
+  <a href="{{ site.url }}/week3" class="back">WEEK 3</a>
+  <a href="{{ site.url }}/week5" class="forward">WEEK 5</a>
+</p>
+
 <nav>
   <ul>
     <li><a href="#csstypeface01">CSS Typeface + physical internet</a></li>

@@ -29,6 +29,12 @@ layout: log
 **—**
 {% include 11/noordzij01.md %}
 
+<p class="page_nav">
+  <a href="{{ site.url }}/#refrepo" class="home">HOME</a>
+  <a href="{{ site.url }}/week10" class="back">WEEK 10</a>
+  <a href="{{ site.url }}/week12-13" class="forward">WEEKS 12 & 13</a>
+</p>
+
 <nav>
   <ul>
     <li><a href="#capstoneideas02">Digitally native type</a></li>
