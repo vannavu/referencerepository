@@ -5,7 +5,9 @@ html {
 }
 
 body {
-	background: white;
+	background: url();
+	background-attachment: fixed;
+	background-position: center;
 	font-family: "source-sans-pro", sans-serif;
 	font-size: 18px;
 	font-weight: 300;
